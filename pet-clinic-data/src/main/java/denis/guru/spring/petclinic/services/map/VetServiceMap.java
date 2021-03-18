@@ -1,12 +1,13 @@
 package denis.guru.spring.petclinic.services.map;
 
-import denis.guru.spring.petclinic.model.Pet;
+
 import denis.guru.spring.petclinic.model.Vet;
-import denis.guru.spring.petclinic.services.CrudService;
+
+import denis.guru.spring.petclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet,Long> implements CrudService<Vet,Long> {
+public class VetServiceMap extends AbstractMapService<Vet,Long> implements VetService {
     @Override
     public Set<Vet> findAll() {
         return super.findALL();
