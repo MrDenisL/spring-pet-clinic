@@ -1,5 +1,6 @@
 package denis.guru.spring.petclinic.model;
 
+import lombok.Builder;
 import lombok.Data;
 import org.hibernate.annotations.Cascade;
 

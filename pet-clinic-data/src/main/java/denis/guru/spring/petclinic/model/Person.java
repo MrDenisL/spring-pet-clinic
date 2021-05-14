@@ -1,10 +1,14 @@
 package denis.guru.spring.petclinic.model;
 
-import lombok.Data;
+import lombok.*;
 
 import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
 
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 @MappedSuperclass
 @Data
 public class Person extends BaseEntity{
