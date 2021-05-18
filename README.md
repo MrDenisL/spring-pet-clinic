@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/MrDenisL/spring-pet-clinic.svg?style=svg)](https://circleci.com/gh/MrDenisL/spring-pet-clinic)
 # spring-pet-clinic
-Vet Clinic Web site (rewriten spring educationall app using Spring Framework 5 during Spring Framework 5: Beginner to Guru)
+Vet Clinic Web site (rewritten spring educational app using Spring Framework 5 during Spring Framework 5: Beginner to Guru)
 # What I Learned 
 * Spring Framework 5
 * Spring Boot 2
