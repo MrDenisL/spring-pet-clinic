@@ -8,6 +8,7 @@ Vet Clinic Web site (rewriten spring educationall app using Spring Framework 5 d
 * Spring MVC
 * Spring MockMVC
 * Hibernate
+* CircleCI
 * Project Lombok
 * MapStruct
 * Maven
